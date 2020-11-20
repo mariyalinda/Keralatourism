@@ -1,0 +1,62 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+
+.myMargin{
+    margin-top:25px;
+}
+
+.home{
+
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/532/772/1020/munroe-island-kerala-india-wallpaper-preview.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative; 
+}
+.heading{
+  color: #ffffff;
+  text-align: center;
+
+}
+
+p.homepage{
+  margin:5%;
+}
+.link-container{
+  text-align:center;
+}
+a.signin{
+  text-align:center;
+  background-color: ForestGreen;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+#district{
+  background-color: rgba(173,216,230,0.5);
+}
+.dist{
+  background-color: aliceblue;
+}
+#login{
+
+  background-image:url("https://uniquetimes.org/wp-content/uploads/2019/01/unique-times-kerala-eco-tourism-main-image.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+#transbox {
+    
+    background-color: #ffffff;
+    opacity: 0.6;
+    padding: 20px;
+  } 
+
+  
