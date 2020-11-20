@@ -20,7 +20,7 @@ function validate()
         flag1=true;
     }
 
-    if(/^([0-9]{10})&/.test(num.value)||numregex.test(num.value))
+    if(!(/^([0-9]{10})&/.test(num.value)||numregex.test(num.value)))
     {
         error2.innerText="Invalid phone number";
         error2.style.color="red";
