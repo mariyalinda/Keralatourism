@@ -56,7 +56,7 @@ function login()
     {
         error1.innerText="Email is verified";
         error1.style.color="green";
-        if(pw.value=="fsd@ict")
+        if(pw.value=="1FSD@ict1")
         {
             return true;
         }
@@ -85,7 +85,6 @@ function check()
     }
         
 }
-
 
 
 
